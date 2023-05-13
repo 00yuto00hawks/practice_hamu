@@ -1,7 +1,1 @@
-console.log("Hello, world!");
-
-function test() {
-  console.log("test");
-}
-
-test();
+console.log("This is first commit");
